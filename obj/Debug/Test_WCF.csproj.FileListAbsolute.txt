@@ -1,0 +1,7 @@
+E:\控制台测试\Test_WCF\bin\Debug\Test_WCF.exe.config
+E:\控制台测试\Test_WCF\bin\Debug\Test_WCF.exe
+E:\控制台测试\Test_WCF\bin\Debug\Test_WCF.pdb
+E:\控制台测试\Test_WCF\obj\Debug\Test_WCF.csproj.CoreCompileInputs.cache
+E:\控制台测试\Test_WCF\obj\Debug\Test_WCF.exe
+E:\控制台测试\Test_WCF\obj\Debug\Test_WCF.pdb
+E:\控制台测试\Test_WCF\obj\Debug\Test_WCF.csproj.AssemblyReference.cache
