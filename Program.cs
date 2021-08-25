@@ -20,13 +20,12 @@ namespace Test_WCF
             //string getvalue = value;
             //Console.WriteLine(getvalue);
             Login();
-            
         }
         public static bool Login() {
             
             UserClient userClient = new UserClient();
             bool Loginint = false;
-            string Userinfo = userClient.Login("张三", "111");
+            string Userinfo = userClient.Login("张三", "2213");
             if (!Userinfo.Equals("登录失败"))
             {
                 Loginint = true;
